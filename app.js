@@ -2,8 +2,8 @@
 
 var cuentas = [
     { nombre: "Laura", saldo: 200, password: "1234" },
-    { nombre: "Lucas", saldo: 290, password: "5678" },
-    { nombre: "Alfredo", saldo: 67, password: "91011" }
+    { nombre: "Lucas", saldo: 290, password: "1234" },
+    { nombre: "Alfredo", saldo: 67, password: "1234" }
 ];
 
 var selectedAccount = null;
